@@ -2,35 +2,28 @@
   {
     "type": "folder",
     "addDate": 1705846741825,
-    "title": "收藏夹栏",
+    "title": "移动收藏夹",
     "children": [
       {
         "type": "link",
-        "addDate": 1629474725828,
-        "title": "果核剥壳 - 还原软件的本质",
-        "icon": "https://logo.clearbit.com/www.ghxi.com",
-        "url": "https://www.ghxi.com/"
-      }
-    ]
-  },
-  {
-    "type": "folder",
-    "addDate": 1705846741825,
-    "title": "移动收藏夹",
-    "children": [
+        "addDate": 1721216768284,
+        "title": "仪表盘 | 大湾区",
+        "icon": "https://logo.clearbit.com/sirzhang.com",
+        "url": "https://sirzhang.com/#/dashboard"
+      },
+      {
+        "type": "link",
+        "addDate": 1721477822915,
+        "title": "仪表盘 | Lovesy 机场",
+        "icon": "https://logo.clearbit.com/www.lovesy.net",
+        "url": "https://www.lovesy.net/#/dashboard"
+      },
       {
         "type": "link",
         "addDate": 1722752882717,
         "title": "玩家动力-没有人比玩家更懂游戏",
         "icon": "https://logo.clearbit.com/www.wanjiadongli.com",
         "url": "https://www.wanjiadongli.com/"
-      },
-      {
-        "type": "link",
-        "addDate": 1723101230023,
-        "title": "FilePizza - Your files, delivered.",
-        "icon": "https://logo.clearbit.com/file.pizza",
-        "url": "https://file.pizza/"
       },
       {
         "type": "link",
