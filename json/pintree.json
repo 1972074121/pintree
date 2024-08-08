@@ -10,13 +10,6 @@
         "title": "果核剥壳 - 还原软件的本质",
         "icon": "https://logo.clearbit.com/www.ghxi.com",
         "url": "https://www.ghxi.com/"
-      },
-      {
-        "type": "link",
-        "addDate": 1590624346500,
-        "title": "Wallpaper Abyss - 高清壁纸, 桌面背景",
-        "icon": "https://logo.clearbit.com/wall.alphacoders.com",
-        "url": "https://wall.alphacoders.com/?lang=Chinese"
       }
     ]
   },
@@ -27,17 +20,24 @@
     "children": [
       {
         "type": "link",
-        "addDate": 1721216768284,
-        "title": "仪表盘 | 大湾区",
-        "icon": "https://logo.clearbit.com/sirzhang.com",
-        "url": "https://sirzhang.com/#/dashboard"
+        "addDate": 1722752882717,
+        "title": "玩家动力-没有人比玩家更懂游戏",
+        "icon": "https://logo.clearbit.com/www.wanjiadongli.com",
+        "url": "https://www.wanjiadongli.com/"
       },
       {
         "type": "link",
-        "addDate": 1721477822915,
-        "title": "仪表盘 | Lovesy 机场",
-        "icon": "https://logo.clearbit.com/www.lovesy.net",
-        "url": "https://www.lovesy.net/#/dashboard"
+        "addDate": 1723101230023,
+        "title": "FilePizza - Your files, delivered.",
+        "icon": "https://logo.clearbit.com/file.pizza",
+        "url": "https://file.pizza/"
+      },
+      {
+        "type": "link",
+        "addDate": 1723101755869,
+        "title": "FOMECard",
+        "icon": "https://logo.clearbit.com/134.fomecard.top",
+        "url": "https://134.fomecard.top/home"
       }
     ]
   }
